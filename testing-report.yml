@@ -6,3 +6,39 @@
 - summary: |
     Краткое описание тест-кейса. Пример: Проверка входа пользователя с существующими логином и паролем
   status: pass
+
+- summary: |
+    Успешная регистрация на сайте
+  status: pass
+
+- summary: |
+    Просмотр статистики игр в лк
+  status: pass
+
+- summary: |
+    Просмотр истории игр в лк
+  status: pass
+
+- summary: |
+    Просмотр истории игр в лк
+  status: pass
+
+- summary: |
+    Создание игры
+  status: pass
+
+- summary: |
+    Создание новых задач Просмотр повторов игр
+  status: pass
+
+- summary: |
+    Просмотр повторов игр
+  status: pass
+
+- summary: |
+    Просмотр таблицы лидеров
+  status: pass
+
+- summary: |
+    Мобильная версия сайта
+  status: pass
